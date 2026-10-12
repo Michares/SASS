@@ -1,21 +1,15 @@
-.header ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.header ul li {
-  display: inline-block;
-}
-.header ul li {
-  background-color: black;
-  padding: 0.7em;
-}
-.header ul li a {
-  color: white;
+h1 {
+  color: red;
+}/*# sourceMappingURL=main.css.map */ragraph {
+  font-size: 1.4em;
 }
 
-.container {
-  display: flex;
+.footer .footer-heading {
+  font-size: 2em;
+}
+.footer .footer-paragraph {
+  font-size: 1.4em;
+}/*# sourceMappingURL=main.css.map */display: flex;
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
@@ -29,23 +23,4 @@
   background-color: #bada55;
   text-align: center;
   line-height: 60px;
-}
-
-.footer ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.footer ul li {
-  display: inline-block;
-}
-.footer ul li {
-  padding: 0.4em;
-  background-color: pink;
-}
-.footer ul li a {
-  color: white;
-  text-decoration: none;
-}
-
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
