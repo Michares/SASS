@@ -1,16 +1,16 @@
-@use 'mixin';
+// @use 'mixin';
 
-.footer ul {
-    @include mixin.inline-list();
+// .footer ul {
+//     @include mixin.inline-list();
 
-    li {
-        padding: 0.4em;
-        background-color: pink;
+//     li {
+//         padding: 0.4em;
+//         background-color: pink;
 
-        a {
-            color: white;
-            text-decoration: none;
-        }
-    }
+//         a {
+//             color: white;
+//             text-decoration: none;
+//         }
+//     }
 
-}
+// }
